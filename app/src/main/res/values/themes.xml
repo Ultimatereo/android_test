@@ -12,5 +12,73 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+
     </style>
+
+    <style name="AppRatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#F4D144</item>
+        <item name="colorControlActivated">#F4D144</item>
+        <item name="android:numStars">5</item>
+    </style>
+
+    <style name="dota_2_is_a">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:textColor">
+            #B3EEF2FB
+        </item>
+
+    </style>
+
+    <style name="review_rati">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.04
+        </item>
+
+        <item name="android:textColor">
+            #EEF2FB
+        </item>
+
+    </style>
+
+    <style name="some_id">
+
+        <item name="android:textSize">
+            48sp
+        </item>
+
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+
+    </style>
+
+    <style name="m_reviews">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.04
+        </item>
+
+        <item name="android:textColor">
+            #A8ADB7
+        </item>
+
+    </style>
+
+    <style name="ImageView.Round" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+
 </resources>

@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Sirius</string>
+    <string name="game_image">Game Image</string>
+    <string name="logo_image">Logo of the Game</string>
+    <!--  def is a default value for string  -->
+    <string name="def">Nothing interesting here</string>
+    <string name="dota_2_is_a">Default description</string>
+    <string name="review_rati">Review &amp; Ratings</string>
+    <string name="some_id">defaultId</string>
+    <string name="m_reviews">default Reviews</string>
+    <string name="buttonInstall">Install</string>
 </resources>
